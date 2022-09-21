@@ -1,5 +1,7 @@
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Sanket+Paharia)](https://git.io/typing-svg)
+
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=500&color=7E9CF7&vCenter=true&width=600&lines=Full+Stack+Web+Developer;SpringBoot;Hibernet;Microservices;JavaScript;CoreJava;NodeJS;MongoDB;CSS)](https://git.io/typing-svg)<br>
 🌱 I’m a Full Stack Java Developer<br>👯 I’m looking to collaborate on MERN & Java Projects<br>💬 Reach me on sanket.paharia@gmail.com
