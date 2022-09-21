@@ -1,5 +1,8 @@
 ### Hi there i am Sanket Paharia👋
 
+💻 Tech Stack:
+CSS3 HTML5 JavaScript TypeScript Firebase Heroku Netlify Vercel Cloudflare Bootstrap Chakra Electron.js Express.js MUI NPM NodeJS Semantic UI React Redux React Router React TailwindCSS Webpack MongoDB Figma Framer Postman
+
 <!--
 **SanketPaharia/SanketPaharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
