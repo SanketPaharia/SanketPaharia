@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=sanketpaharia&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sanketpaharia&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Sanket+Paharia)](https://git.io/typing-svg)
 
