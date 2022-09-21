@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+💻 Tech Stack:
+CSS3 HTML5 JavaScript TypeScript Firebase Heroku Netlify Vercel Cloudflare Bootstrap Chakra Electron.js Express.js MUI NPM NodeJS Semantic UI React Redux React Router React TailwindCSS Webpack MongoDB Figma Framer Postman
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
