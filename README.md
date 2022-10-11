@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Sanket+Paharia)](https://git.io/typing-svg)
 
-# 💫 About Me:
+
+
+# 💫 About Me  :
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=500&color=7E9CF7&vCenter=true&width=600&lines=Full+Stack+Web+Developer;SpringBoot;Hibernet;Microservices;JavaScript;CoreJava;NodeJS;MongoDB;CSS)](https://git.io/typing-svg)<br>
 🌱 I’m a Full Stack Java Developer<br>👯 I’m looking to collaborate on MERN & Java Projects<br>💬 Reach me on sanket.paharia@gmail.com
 
@@ -29,7 +31,7 @@
 Here are some ideas to get you started:
 
 💻 Tech Stack:
-CSS3 HTML5 JavaScript TypeScript Firebase Heroku Netlify Vercel Cloudflare Bootstrap Chakra Electron.js Express.js MUI NPM NodeJS Semantic UI React Redux React Router React TailwindCSS Webpack MongoDB Figma Framer Postman
+CSS3 HTML5 JavaScript TypeScript Heroku Netlify Vercel Bootstrap Chakra Electron.js Express.js MUI NPM NodeJS Webpack MongoDB Figma
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
