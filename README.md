@@ -17,7 +17,7 @@
 
 # Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=SanketPaharia&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanketpaharia&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SanketPaharia&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketPaharia&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 [![Sanket's github activity graph](https://activity-graph.herokuapp.com/graph?username=SanketPaharia&theme=rogue)](https://github.com/SanketPaharia/github-readme-activity-graph)
