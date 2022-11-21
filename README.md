@@ -7,9 +7,9 @@
 # 💫 About Me  :
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=500&color=7E9CF7&vCenter=true&width=600&lines=Full+Stack+Web+Developer;SpringBoot;Hibernet;Microservices;JavaScript;CoreJava;NodeJS;MongoDB;CSS)](https://git.io/typing-svg)<br>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying springboot and databases.\
-🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
+💡 &nbsp;I like to explore full stack technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying java backend using springboot and databases.\
+🌱 &nbsp;Ask me about Javascript, Java, HTML, CSS, DSA , Springboot , Alogo's\
 ✍️ &nbsp;In my free time, you find me swimming or reading.\
 💬 &nbsp;Feel free to reach out to me at sanket.paharia@gmail.com ! \
 📄 &nbsp;Please have a look at my [Résumé](https://github.com/SanketPaharia/Resume/blob/master/Sanket_Paharia_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
