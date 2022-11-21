@@ -11,8 +11,7 @@
 🎓 &nbsp;I'm currently studying springboot and databases.\
 🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, you find me swimming or reading.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at sanket.paharia@gmail.com ! I'll try to respond as soon as I can.\
+💬 &nbsp;Feel free to reach out to me at sanket.paharia@gmail.com ! \
 📄 &nbsp;Please have a look at my [Résumé](https://github.com/SanketPaharia/Resume/blob/master/Sanket_Paharia_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 
