@@ -6,8 +6,15 @@
 
 # 💫 About Me  :
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=500&color=7E9CF7&vCenter=true&width=600&lines=Full+Stack+Web+Developer;SpringBoot;Hibernet;Microservices;JavaScript;CoreJava;NodeJS;MongoDB;CSS)](https://git.io/typing-svg)<br>
-🌱 I’m a Full Stack Java Developer <br>👯 I’m looking to collaborate on MERN & Java Projects . <br>💬  Reach me on sanket.paharia@gmail.com  <br> 
-Resume <br>
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying springboot and databases.\
+🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, you find me swimming or reading.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at sanket.paharia@gmail.com ! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://github.com/SanketPaharia/Resume/blob/master/Sanket_Paharia_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
+
 
 
 ## 🌐 Socials:
