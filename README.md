@@ -12,7 +12,7 @@
 🌱 &nbsp;Ask me about Javascript, Java, HTML, CSS, DSA , Springboot , Algo's\
 ✍️ &nbsp;In my free time, you find me swimming or reading.\
 💬 &nbsp;Feel free to reach out to me at sanket.paharia@gmail.com ! \
-📄 &nbsp;Please have a look at my [Résumé](https://github.com/SanketPaharia/Resume/blob/master/Sanket_Paharia_Resume.pdf) for more details about me. I'm open to feedback and suggestions! \
+📄 &nbsp;Please have a look at my [Résumé](https://github.com/SanketPaharia/Resume/blob/master/Sanket_Paharia_Resume.pdf) for more details about me . I'm open to feedback and suggestions! \
 📫 &nbsp;Want to know more about me? [Check out My Portfolio](https://sanketpaharia.github.io/)
 
 
