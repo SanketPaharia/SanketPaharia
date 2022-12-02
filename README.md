@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Sanket+Paharia)](https://git.io/typing-svg)
 
+![](https://user-images.githubusercontent.com/12915136/87480122-ab9e5e00-c5fa-11ea-82b1-b4d3340b5c27.png)
 
 
 # 💫 About Me  :
