@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Sanket+Paharia)](https://git.io/typing-svg)
 
-<p align="center"> <img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.baxterip.com.au%2Fwp-content%2Fuploads%2F2021%2F02%2FSoftware-patents-hero-image.svg&imgrefurl=https%3A%2F%2Fwww.baxterip.com.au%2Fspecialisations%2Fsoftware-patents&tbnid=ecjtPck67XOxvM&vet=10CAIQxiAoAGoXChMIyJ36qI7b-wIVAAAAAB0AAAAAEAw..i&docid=ISA0L2urzSKyhM&w=800&h=400&itg=1&q=software%20&ved=0CAIQxiAoAGoXChMIyJ36qI7b-wIVAAAAAB0AAAAAEAw" > </p>
+<p align="center"> <img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.itpedia.nl%2Fwp-content%2Fuploads%2F2019%2F05%2Fapplication-development.png&imgrefurl=https%3A%2F%2Fen.itpedia.nl%2F2017%2F08%2F12%2Fde-verschillende-typen-softwarepakketten%2F&tbnid=qcuuBifgGX04UM&vet=10CAwQxiAoBGoXChMIyJ36qI7b-wIVAAAAAB0AAAAAEAw..i&docid=NZ5-IGK9qRCBEM&w=980&h=643&itg=1&q=software%20&ved=0CAwQxiAoBGoXChMIyJ36qI7b-wIVAAAAAB0AAAAAEAw" > </p>
 
 
 # 💫 About Me  :
