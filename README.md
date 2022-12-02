@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Sanket+Paharia)](https://git.io/typing-svg)
 
-<p align="center"> <img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.itpedia.nl%2Fwp-content%2Fuploads%2F2019%2F05%2Fapplication-development.png&imgrefurl=https%3A%2F%2Fen.itpedia.nl%2F2017%2F08%2F12%2Fde-verschillende-typen-softwarepakketten%2F&tbnid=qcuuBifgGX04UM&vet=10CAwQxiAoBGoXChMIyJ36qI7b-wIVAAAAAB0AAAAAEAw..i&docid=NZ5-IGK9qRCBEM&w=980&h=643&itg=1&q=software%20&ved=0CAwQxiAoBGoXChMIyJ36qI7b-wIVAAAAAB0AAAAAEAw" > </p>
+<p align="center"> <img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fhbr.org%2Fresources%2Fimages%2Farticle_assets%2F2021%2F12%2FDec21_07_1307907309.jpg&imgrefurl=https%3A%2F%2Fhbr.org%2F2021%2F12%2Fwhen-should-your-company-develop-its-own-software&tbnid=2VI901z0Dtu3rM&vet=12ahUKEwi1mfmmjtv7AhWEiNgFHTHKAPIQMyg2egQIARBs..i&docid=lJxSPALKFdLQuM&w=1200&h=675&q=software%20&ved=2ahUKEwi1mfmmjtv7AhWEiNgFHTHKAPIQMyg2egQIARBs" > </p>
 
 
 # 💫 About Me  :
