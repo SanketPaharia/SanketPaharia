@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Sanket+Paharia)](https://git.io/typing-svg)
 
-![](https://user-images.githubusercontent.com/12915136/87480122-ab9e5e00-c5fa-11ea-82b1-b4d3340b5c27.png)
+<p align="center"> <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cdac.in%2Findex.aspx%3Fid%3Dsoft_tech&psig=AOvVaw05dezcvMC3_jjIT5J4nnAT&ust=1670076603674000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMid-qiO2_sCFQAAAAAdAAAAABAJ" > </p>
 
 
 # 💫 About Me  :
