@@ -29,7 +29,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=SanketPaharia&show_icons=true&theme=transparent)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SanketPaharia&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketPaharia&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketPaharia&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
