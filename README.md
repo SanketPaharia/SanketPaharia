@@ -5,7 +5,7 @@
 
 
 
-# 💫 About Me :
+# 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=500&color=7E9CF7&vCenter=true&width=600&lines=Full+Stack+Web+Developer;SpringBoot;Hibernet;Microservices;JavaScript;CoreJava;NodeJS;MongoDB;CSS)](https://git.io/typing-svg)<br>
 
 💡 &nbsp;I like to explore full stack technologies and develop software solutions and quick hacks .\
